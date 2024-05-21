@@ -20,4 +20,4 @@ usersRouter.post("/", async (req, res) => {
   }
 });
 
-export default usersRouter;
+export default usersRouter
